@@ -1,0 +1,11 @@
+{
+    "name" : "learn-sequelize",
+    "version" : "0.0.1",
+    "description" : "learn sequelize",
+    "main" : "app.js",
+    "scripts" : {
+        "start" : "nodemone app"
+    },
+    "author" : "1000zoo",
+    "license" : "MIT"
+}
